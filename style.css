@@ -1,0 +1,20 @@
+p.myred {
+            /* class level */
+            color: darkred;
+        }
+
+        #mygreen_via_id {
+            /* Id level */
+            color: green;
+        }
+
+        .mypink{
+            /* Generic */
+            color:pink;
+        }
+        *
+        {
+            /* Universal */
+            font-style: italic;
+
+        
